@@ -52,11 +52,6 @@ Built with a focus on fast edge rendering, real-time live preview customization,
 ### 3. Live Widget Customizer
 ![Widget Editor](./public/screenshots/widget-editor.png)
 
-### 4. Embedded Inside Notion
-| Light Mode | Dark Mode |
-| :---: | :---: |
-| ![Notion Light](./public/screenshots/notion-light.png) | ![Notion Dark](./public/screenshots/notion-dark.png) |
-
 ---
 
 ## 🛠️ Tech Stack
