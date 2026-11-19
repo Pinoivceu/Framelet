@@ -1,0 +1,1 @@
+-- Framelet starts with an empty widget collection; no seed data is required.
